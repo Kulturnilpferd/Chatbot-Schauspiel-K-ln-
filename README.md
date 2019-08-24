@@ -1,6 +1,6 @@
 # Chatbot-Schauspiel-Köln
 A chatbot project for Schauspiel Köln
-- Written in Python 3
+Written in Python 3
 
 # Dependencies:
 - pyttsx3
